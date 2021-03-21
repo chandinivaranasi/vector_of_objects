@@ -1,0 +1,6 @@
+#username,password,candidate id,candidate name,aadhar,address,qualifications
+cadmin,chaad15,6666,Chandini Varanasi,896452134756,Belgium,CEO
+kraj,karanr9,3001,Karan Raj,847515664899,Betul,Software Eng
+sdas,sumitad8,3002,Sumita Das,647756223944,Jaipur,Operations manager
+jdoe,johnd08,3004,John Doe,753695148521,Mumbai,analyst
+lblack,blackll09,3005,Lewis Black,456578981232,Manhattan,Supervisor
